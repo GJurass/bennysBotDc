@@ -234,4 +234,4 @@ async def on_message(message):
 
 
 # Inicie o bot com o token
-bot.run('MTI4MzQ4MDU3MjI2MTMwMjM3NA.GN3_lW.9_WmP7hM8UtcsfeZUX7Dnu133RTP4vmaboBIp8')
+bot.run('Your Bot token here')
